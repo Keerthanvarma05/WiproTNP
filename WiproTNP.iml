@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/abstractionpackagesandexceptionhandling/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/abstraction,packagesandexceptionhandling" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/collections/Dateandtime" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/collections/LamdaExpressions" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/collections/functionalinterface" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/collections/methodreference" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/collections/streamapi" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/collections/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/iostreams/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/javafundamentals/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/jdbc/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/junit/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/logicbuilding/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/multithreading/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/oopsandinheritence/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/wrapperclasses/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
